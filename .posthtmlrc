@@ -7,12 +7,76 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Women’s basketball’s rapid rise in the Ivy League has earned the team its second postseason ticket in program history, and this spring will mark the first time that ticket will be cashed, after the 2020 tournament was canceled due to the COVID-19 pandemic. The tournament offers the Lions a potential third chance to face off against the Princeton Tigers—to claim Columbia’s first women’s basketball Ancient Eight title."
+          },
+          {
+            "type": "text",
+            "value": "Four teams are in the tournament. The second seed Columbia Lions (21-5, 12-2 Ivy) will match up against the third seed Yale Bulldogs (16-10, 9-5 Ivy), and the first seed Princeton Tigers (22-4, 14-0 Ivy) will match up against the fourth seed Harvard Crimson (13-13, 7-7 Ivy). Harvard is tied with Penn (12-14, 7-7 Ivy) in both their Ivy record and their matchup, but Harvard’s victory against the Bulldogs on February 5 secured a tiebreak advantage against Penn, who lost both games against Yale."
+          },
+          {
+            "type": "text",
+            "value": "Statistically, the Quakers have a higher scoring margin in conference play than the Bulldogs, leading by just 0.2, but the Bulldogs ended up closing out both games against Penn. With these crucial wins, the Bulldogs were able to claim a third seed, even with inferior ratings to Penn, who will not be competing in the tournament."
+          },
+          {
+            "type": "text",
+            "value": "In their first round matchup, the Lions have a statistical and historic advantage against the Bulldogs, considering the Lions’ two victories against them this season and Columbia’s higher net ratings. Over the course of the conference season, the Light Blue have outpaced the Elis both offensively and defensively. The Lions have done a good job locking up the Bulldogs’ leading scorers Camille Emsbo and Clark in the regular season, and they will seek to continue this defensive effort in their third meeting."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "netgraph.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "On the other side of the bracket, the Crimson fought its way into the tournament with strong offense. Harvard is a volume three-point shooting team averaging 8.9 threes made per game in Ivy Play, leading the conference. Its offensive execution is also top-notch, averaging just 12 turnovers per game, with an assist-turnover ratio of 1.26, ranking second in both, behind Princeton."
+          },
+          {
+            "type": "text",
+            "value": "In contrast, the Lions are going into the tournament dead last in turnover margins. They average 17.6 per game while their opponents only average 12.9. However along with this high turnover number, the Light Blue also leads the conference in assists."
+          },
+          {
+            "type": "text",
+            "value": "The Tigers are in a league of their own. They continued their three-year unbeaten streak in conference play during the regular season, doing so with a dominant plus 41.5 net rating—31 points ahead of their closest competition, the Lions."
+          },
+          {
+            "type": "text",
+            "value": "Even more impressive is that they achieve success without overtaxing their best players. Besides the two games against Columbia, in which the Princeton starters all played over 30 minutes, Princeton usually goes deep into its bench. Kaitlyn Chen, who averages just 29.6 minutes in conference play, plays the most minutes for the Tigers while star sophomore guard Abbey Hsu leads the Lions with 32.7, and Yale guard Jenna Clark averages 36.8. Thus, when Princeton lets its core stars, guards Abby Meyers and Julia Cunningham, play a full slate of minutes in the tournament, the squad could ascend to more impressive heights."
+          },
+          {
+            "type": "text",
+            "value": "The Lions have the Ivy League’s sixth and 11th best scorers. Abbey Hsu averages 14.8 points during conference play, and junior forward Kaitlyn Davis averages 12.6. The best scorer in the tournament is Princeton’s Abby Meyers, who averages 17.6, and Harvard’s Turner Harmoni, who is a rookie, follows close behind with 16.9. Hsu has struggled sometimes during conference play, but she found her touch in the final two games, scoring 18 and 25 respectively. If she could continue this good form, she can be the best scorer in the postseason, as she is ranked third in scoring in the overall season so far."
+          },
+          {
+            "type": "text",
+            "value": "The game will be the second of the two semifinals on Friday, March 11. Princeton will play Harvard at 4:30 p.m., and Columbia will play Yale at 7:30 p.m. If Columbia defeats Yale, it will play the winner of the Princeton Harvard game on Saturday, March 12 at 5 p.m. The semifinals will be broadcast on ESPN+, and the Finals will be on ESPNEWS."
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior staff writer Adam Lang can be contacted at </i><a href=\"mailto:adam.lang@columbiaspectator.com\"><i>adam.lang@columbiaspectator.com</i></a><i>. Follow Spectator Sports on Twitter </i><a href=\"https://twitter.com/CUSpecSports\"><i>@CUSpecSports</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/androo_park\"><i>@androo_park</i></a>."
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
+        "date": "April 12th, 2022",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Adam-Lang/\">Adam Lang</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JRO22AVLLFFFBGHT2NJKISRR6A.jpg",
+        "cover_caption": "Photo by Caitlin Buckley",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1vr-5R1yJeIe0uepS_E1e0oVTjlP7hWYc-B5X_a53eNs/edit#heading=h.ezmg3ruoangt"
       }
     }
   }

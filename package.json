@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "wnit-recap",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,8 +12,8 @@
     "eslint": "^7.0.0",
     "parcel-bundler": "^1.12.3",
     "patch-package": "^6.2.2",
-    "posthtml-expressions": "^1.4.0",
-    "posthtml-include": "^1.4.3",
+    "posthtml-expressions": "^1.9.0",
+    "posthtml-include": "^1.7.3",
     "sass": "^1.26.5"
   },
   "dependencies": {
@@ -31,8 +31,8 @@
   "spectate": {
     "USE_NEWS_NAV": true,
     "USE_EYE_NAV": false,
-    "USE_COVER_HED": false,
+    "USE_COVER_HED": true,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1vr-5R1yJeIe0uepS_E1e0oVTjlP7hWYc-B5X_a53eNs/edit#heading=h.ezmg3ruoangt"
   }
 }
